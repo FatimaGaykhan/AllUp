@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1B9F1B26-D3D0-40E0-B15F-AD08D0A86F29}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/AllUpFinal/AllUpFinal/ViewModels/ProductViewComponentVM/PvcVM.cs" relfile="AllUpFinal/ViewModels/ProductViewComponentVM/PvcVM.cs" line="8" column="31" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AllUpFinal PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AllUpFinal" expanded="True">
+            <Node name="AllUpFinal" expanded="True">
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="ProductViewComponentVM" expanded="True">
+                  <Node name="PvcVM.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Product" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+</Properties>
